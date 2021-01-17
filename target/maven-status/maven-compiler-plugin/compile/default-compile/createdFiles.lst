@@ -1,0 +1,2 @@
+webapp/filter/LoginRequiredFilter.class
+webapp/logout/LogoutServlet.class
